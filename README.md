@@ -5,5 +5,5 @@
 Welcome to my GitHub profile! I am a senior java enginner at Granit. I made several [contributions to the open source](https://github.com/mishin), especially I created the [translation Perl documentation to Russian](https://github.com/mishin/POD-to-RU) .
 
 ## Get in touch
-- VK: [https://vk.com/nikolay_mishin](https://vk.com/nikolay_mishin)
+- VK: [https://vk.com/nikolay_mishin](https://vk.com/niko_almas)
 - LinkedIn: [https://www.linkedin.com/in/nikolaymishin](https://www.linkedin.com/in/nikolaymishin/)
